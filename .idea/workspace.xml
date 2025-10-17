@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="475aec65-4488-45ff-adef-a699c4171653" name="Changes" comment="" />
+    <list default="true" id="ea1e3371-5b36-4c28-852d-34ee1b5c7def" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ListyCity/app/src/main/java/com/example/listycity/CityList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListyCity/app/src/test/java/com/example/listycity/CityListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lab-06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/app/src/androidTest/java/com/example/listycity/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/app/src/androidTest/java/com/example/listycity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/app/src/main/java/com/example/listycity/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/app/src/main/java/com/example/listycity/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/app/src/main/java/com/example/listycity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/app/src/main/java/com/example/listycity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/app/src/test/java/com/example/listycity/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListyCity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ListyCity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +36,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="34A63OtVw9NAmdwTcArWnxKiTAG" />
+  <component name="ProjectId" id="34B0JY5ZQvh2MDhPJUDTMIwJJdV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,11 +56,11 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="475aec65-4488-45ff-adef-a699c4171653" name="Changes" comment="" />
-      <created>1760643829167</created>
+      <changelist id="ea1e3371-5b36-4c28-852d-34ee1b5c7def" name="Changes" comment="" />
+      <created>1760671586674</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760643829167</updated>
+      <updated>1760671586674</updated>
     </task>
     <servers />
   </component>
